@@ -94,7 +94,7 @@ endif;
             </div>
         </div>
 
-        <button class="btn btn-success">Post</button>
+        <button type="submit" class="btn btn-success">Post</button>
        </div>
     </div>
 
