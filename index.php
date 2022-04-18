@@ -2,6 +2,8 @@
 
 $errors = [];
 
+$count_errors = '';
+
 // List of the words you want to block
 $spam_words =
 
@@ -9,7 +11,7 @@ $spam_words =
         ".mobi", ".us", ".biz", ".ca", ".ws", ".ag",
 		".com.co", ".net.co", ".com.ag", ".net.ag", ".it", ".fr", ".tv", ".am", ".asia", ".at", ".be", ".cc", ".de", ".es", ".com.es", ".eu",
 		".fm", ".in", ".tk", ".com.mx", ".nl", ".nu", ".tw", ".vg", "sex", "porn", "fuck", "buy", "dating", "viagra", "money", "dollars",
-		"payment", "website", "games", "toys", "poker", "cheap", "href","nude","cam","penis","pills","sale","cheapest", "script",'Mod', 'Owner', 'Mawd', 'M0d', '0wner','090','080','081','070','091','0-','+','80','81','70','91','dot','f*ck','bitch','ww','cum','hacker','pussy'
+		"payment", "website", "games", "toys", "poker", "cheap", "href","nude","cam","penis","pills","sale","cheapest", "script",'Mod', 'Owner', 'Mawd', 'M0d', '0wner','090','080','081','070','091','0-','+','80','81','70','91','dot','f*ck','bitch','ww','cum','hacker','pussy', '<','>'
 ];
 
 
