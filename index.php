@@ -2,7 +2,7 @@
 
 $errors = [];
 
-$count_errors = '';
+$count_errors = 0;
 
 // List of the words you want to block
 $spam_words =
