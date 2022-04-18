@@ -100,7 +100,7 @@ endif;
         <?php endif; ?>            
             <div class="form-group">
                 <div class="mb-3">
-                <h5 class="text-info mb-2">Spam Word Validator.</h5>
+                <h5 class="text-info mb-2">Spam Word Checker.</h5>
                 <label for="exampleFormControlTextarea1" class="form-label">Comment</label>
                 <textarea name="comment" class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
             </div>
